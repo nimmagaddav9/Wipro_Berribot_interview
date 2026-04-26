@@ -1,8 +1,12 @@
 Introduction:
 
-I am a core UI Developer with 12+ years of experience building .com websites for different organizations using HTML5, CSS3,
+I am a core UI Developer with 13 years of experience building .com websites for different organizations using HTML5, CSS3,
 JavaScript, Angular 18, React.js, and Redux. 
-In the past 2 years, I worked on the React migration team, where I converted the .net pages to react on united.com. 
+
+Currently, I’m working at First Citizens Bank, where I’m building secure, scalable portals for both internal users and client-facing applications. 
+I’ve been responsible for client enrollment and reporting features.
+
+Previously, I worked on the React migration team, where I converted the .net pages to react on united.com. 
 Frontend is React, and used ATMOS (Own library) components used company wide.
 
 Worked on Security features for users where they can manage there account like Forgot password, Forgot MileagePlus number, 
