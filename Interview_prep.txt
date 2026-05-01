@@ -1,4 +1,19 @@
-Introduction:
+1. Introduction:
+2. could you describe a time where you faced a difficult challendge in my professional field and how you overcame it, can you answer this question interview?
+3. could you share an exple of a complex project where you leveraged these tech, and the specific role they played in the project sucess
+4. you share that you were involved in migrating features on untied.com to meet accessililty guidelined. could you expand on the strategies you used to ensure these features complied witht the required guidelines
+5. Starting with react framework, can you share how you prevent memory leaks in useEffect or subscriptions in React components?
+6. how would you manage glocal state veruss local compnent state in ract effectively?
+7. how would you manage browser storage with react state to persist data efficeintly?
+8. how you ensure your react app is reileint to sole network or hight latency condition?
+9. what is the purpose of proxy in javascript and could you share some enfical use cases for it?
+10. moving on to typescript could you explain what generics are and provide ause-case for them?
+11. migrating a leeacy javaxetipt codevase to tyep script . how would you handle this transition in phases wihtout casing major dsiruption?
+12. to  start can you explain how you ensure aduio/vido conteent has caption and transcripts?
+13. how you measeue accesibility complicance (wcag) in an existing web product?
+14. now lets dicsuss node.js api integration. can you describe how to implement pagination in api endpoints and how to communicate this to the the frontend?
+15. give a descriptive answer don't give code example, how could you explain how you would use enviromnet variables and configuration management in a node.js express project?
+
 
 I am a core UI Developer with 13 years of experience building .com websites for different organizations using HTML5, CSS3,
 JavaScript, Angular 18, React.js, and Redux. 
